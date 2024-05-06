@@ -1,0 +1,17 @@
+age;day;weather;well-being;amount_of_money;conclusion
+20;Wtorek;slonce;dobre;0;Sport
+25;Sroda;deszcz;dobre;50;Kino
+50;Czwartek;deszcz;zle;100;Dom
+38;Sobota;slonce;zle;100;Sport
+24;Sroda;slonce;zle;30;Kino
+56;Niedziela;slonce;dobre;0;Sport
+47;Poniedzia³ek;slonce;zle;100;Kino
+32;Piatek;deszcz;dobre;100;Impreza
+35;Sobota;deszcz;zle;0;Dom
+22;Sobota;slonce;zle;50;Impreza
+25;Piatek;deszcz;dobre;100;Impreza
+40;Wtorek;slonce;dobre;20;Sport
+53;Czwartek;deszcz;zle;0;Dom
+21;Sroda;slonce;dobre;100;Sport
+29;Czwartek;deszcz;zle;50;Kino
+59;Sobota;deszcz;dobre;0;Dom
